@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cade</string>
+    <string name="app_name">Cadê Todo Mundo?</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
